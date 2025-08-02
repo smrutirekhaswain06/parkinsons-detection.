@@ -17,3 +17,4 @@ Run script: python your_script_name.py
 # Why?
 To explore how simple data analysis can help detect Parkinson’s early using voice measurements.
 
+![Parkinson's Detection Screenshot](screenshot.png)
